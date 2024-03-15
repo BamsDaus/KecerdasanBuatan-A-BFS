@@ -5,7 +5,7 @@ var queue = [];
 var root = [];
 
 function preload() {
-    data = loadJSON('http://localhost/KecerdasanBuatan/assets/mapdata.json');
+    data = loadJSON('assets/mapdata.json');
 }
 
 function setup() {
